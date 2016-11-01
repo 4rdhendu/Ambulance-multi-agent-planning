@@ -1,0 +1,16 @@
+{
+	"nodes": 7,
+	"roads": 15,
+	"noise": 1,
+	"demand": 50,
+
+	"ambulances": 2,
+	"hospitals": 2,
+
+	"patients": 3,
+	"severity1prob": 0.2,
+	"severity2prob": 0.5,
+	"severity3prob": 0.3,
+
+	"output": "test1.pddl"
+}
